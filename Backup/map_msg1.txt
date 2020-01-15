@@ -1,0 +1,18 @@
+钟楼 608 458 ../Data/introduce1.txt ../Picture/picture1.jpg 2 1.1 10 1.1 15 1.1 16 1.1 17 1.1 9 1.1 0 0.0
+革命公园 680 345 ../Data/introduce2.txt ../Picture/picture2.jpg 1 1.1 9 1.1 10 1.1 11 1.1 13 1.1 15 1.1 17 1.1 0 0.0
+陕西历史博物馆 654 681 ../Data/introduce3.txt ../Picture/picture3.jpg 4 1.1 5 1.1 6 1.1 7 1.1 10 1.1 16 1.1 18 1.1 0 0.0
+小雁塔 584 608 ../Data/introduce4.txt ../Picture/picture4.jpg 3 1.1 7 1.1 16 1.1 14 1.1 0 0.0
+大雁塔 725 720 ../Data/introduce5.txt ../Picture/picture5.jpg 3 1.1 6 1.1 8 1.1 10 1.1 18 1.1 0 0.0
+大唐不夜城 723 776 ../Data/introduce6.txt ../Picture/picture6.jpg 3 1.1 5 1.1 7 1.1 8 1.1 0 0.0
+电视塔 598 825 ../Data/introduce7.txt ../Picture/picture7.jpg 3 1.1 4 1.1 6 1.1 8 1.1 14 1.1 0 0.0
+秦二世皇陵 873 830 ../Data/introduce8.txt ../Picture/picture8.jpg 5 1.1 6 1.1 7 1.1 18 1.1 0 0.0
+兴庆公园 869 511 ../Data/introduce9.txt ../Picture/picture9.jpg 1 1.1 2 1.1 10 1.1 11 1.1 18 1.1 0 0.0
+张学良将军公馆 769 496 ../Data/introduce10.txt ../Picture/picture10.jpg 1 1.1 2 1.1 3 1.1 5 1.1 9 1.1 16 1.1 0 0.0
+秦襄王陵 999 438 ../Data/introduce11.txt ../Picture/picture11.jpg 2 1.1 9 1.1 12 1.1 13 1.1 18 1.1 0 0.0
+半坡博物馆 1264 334 ../Data/introduce12.txt ../Picture/picture12.jpg 11 1.1 13 1.1 18 1.1 0 0.0
+大明宫遗址公园 801 103 ../Data/introduce13.txt ../Picture/picture13.jpg 2 1.1 11 1.1 12 1.1 15 1.1 0 0.0
+劳动公园 316 409 ../Data/introduce14.txt ../Picture/picture14.jpg 4 1.1 7 1.1 15 1.1 17 1.1 0 0.0
+安远门(北门) 605 281 ../Data/introduce15.txt ../Picture/picture15.jpg 1 1.1 2 1.1 13 1.1 14 1.1 0 0.0
+永宁门(南门) 609 529 ../Data/introduce16.txt ../Picture/picture16.jpg 1 1.1 3 1.1 4 1.1 10 1.1 0 0.0
+鼓楼 560 440 ../Data/introduce17.txt ../Picture/picture17.jpg 1 1.1 2 1.1 14 1.1 0 0.0
+青龙寺 891 653 ../Data/introduce18.txt ../Picture/picture18.jpg 3 1.1 5 1.1 8 1.1 9 1.1 10 1.1 11 1.1 0 0.0
