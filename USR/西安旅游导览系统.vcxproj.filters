@@ -199,4 +199,9 @@
       <Filter>资源文件\picture</Filter>
     </Image>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
 </Project>

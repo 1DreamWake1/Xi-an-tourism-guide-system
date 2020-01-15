@@ -83,6 +83,9 @@
     <Image Include="..\Picture\Xi%27an_map1.jpg" />
     <Image Include="..\Picture\Xi%27an_map2.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{631B96B9-5715-46EB-8BA2-C69C4D7C0EA2}</ProjectGuid>
